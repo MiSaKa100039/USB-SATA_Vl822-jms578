@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=USB Member=IN_CC1
+Removed Member From Class: ClassName=USB Member=IN_CC2
+Added Member To Class: ClassName=USB Member=Wire IN_SSRX1_N
+Added Member To Class: ClassName=USB Member=Wire IN_SSRX1_P
+Added Member To Class: ClassName=USB Member=Wire IN_SSRX2_N
+Added Member To Class: ClassName=USB Member=Wire IN_SSRX2_P
+Added Member To Class: ClassName=USB Member=Wire IN_SSTX1_N
+Added Member To Class: ClassName=USB Member=Wire IN_SSTX1_P
+Added Member To Class: ClassName=USB Member=Wire IN_SSTX2_N
+Added Member To Class: ClassName=USB Member=Wire IN_SSTX2_P
+Added Member To Class: ClassName=USB Member=Wire SSRX_N
+Added Member To Class: ClassName=USB Member=Wire SSRX_P
+Added Member To Class: ClassName=USB Member=Wire SSTX_N
+Added Member To Class: ClassName=USB Member=Wire SSTX_P
+Added Member To Class: ClassName=USB Member=Wire USBD_N
+Added Member To Class: ClassName=USB Member=Wire USBD_P

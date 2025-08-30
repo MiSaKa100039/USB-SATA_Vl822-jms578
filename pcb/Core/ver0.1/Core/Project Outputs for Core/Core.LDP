@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: H:\Project\USB-SATA_Vl822+jms578\pcb\Core\ver0.1\Core\Core.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=core-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=core-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,41 @@
+Change Net Name : Old Net Name=NetC1_1 New Net Name=cap_TX1_P
+Change Net Name : Old Net Name=NetC2_1 New Net Name=cap_TX2_P
+Change Net Name : Old Net Name=NetC3_1 New Net Name=cap_TX1_N
+Change Net Name : Old Net Name=NetC4_1 New Net Name=cap_TX2_N
+Change Net Name : Old Net Name=NetC5_1 New Net Name=cap_RX1_N
+Change Net Name : Old Net Name=NetC6_1 New Net Name=cap_RX2_N
+Change Net Name : Old Net Name=NetC7_1 New Net Name=cap_RX1_P
+Change Net Name : Old Net Name=NetC8_1 New Net Name=cap_RX2_P
+Change Net Name : Old Net Name=NetC9_1 New Net Name=cap_TX3_P
+Change Net Name : Old Net Name=NetC10_1 New Net Name=cap_TX4_P
+Change Net Name : Old Net Name=NetC11_1 New Net Name=cap_TX3_N
+Change Net Name : Old Net Name=NetC12_1 New Net Name=cap_TX4_N
+Change Net Name : Old Net Name=NetC13_1 New Net Name=cap_RX3_N
+Change Net Name : Old Net Name=NetC14_1 New Net Name=cap_RX4_N
+Change Net Name : Old Net Name=NetC15_1 New Net Name=cap_RX3_P
+Change Net Name : Old Net Name=NetC16_1 New Net Name=cap_RX4_P
+Added Differential Pair: Name=cap_RX1
+Added Differential Pair: Name=cap_RX2
+Added Differential Pair: Name=cap_RX3
+Added Differential Pair: Name=cap_RX4
+Added Differential Pair: Name=cap_TX1
+Added Differential Pair: Name=cap_TX2
+Added Differential Pair: Name=cap_TX3
+Added Differential Pair: Name=cap_TX4
+Added Member To Class: ClassName=Sata Member=Wire cap_RX1_N
+Added Member To Class: ClassName=Sata Member=Wire cap_RX1_P
+Added Member To Class: ClassName=Sata Member=Wire cap_RX2_N
+Added Member To Class: ClassName=Sata Member=Wire cap_RX2_P
+Added Member To Class: ClassName=Sata Member=Wire cap_RX3_N
+Added Member To Class: ClassName=Sata Member=Wire cap_RX3_P
+Added Member To Class: ClassName=Sata Member=Wire cap_RX4_N
+Added Member To Class: ClassName=Sata Member=Wire cap_RX4_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX1_N
+Added Member To Class: ClassName=Sata Member=Wire cap_TX1_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX2_N
+Added Member To Class: ClassName=Sata Member=Wire cap_TX2_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX3_N
+Added Member To Class: ClassName=Sata Member=Wire cap_TX3_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX4_N
+Added Member To Class: ClassName=Sata Member=Wire cap_TX4_P
+Added Member To Class: ClassName=Sata Member=Wire GND

@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=IN_SSTX1_P Pin=U12-2
+Removed Pin From Net: NetName=IN_SSTX1_N Pin=U12-3
+Removed Pin From Net: NetName=IN_SSTX2_N Pin=U12-4
+Removed Pin From Net: NetName=IN_SSTX2_P Pin=U12-5
+Removed Pin From Net: NetName=IN_SSRX1_P Pin=U12-6
+Removed Pin From Net: NetName=IN_SSRX1_N Pin=U12-7
+Removed Pin From Net: NetName=IN_SSRX2_N Pin=U12-8
+Removed Pin From Net: NetName=IN_SSRX2_P Pin=U12-9
+Change Component Designator: OldDesignator=R? NewDesignator=R64
+Added Component: Designator=U14(DIO_TPD4E02B04DQAR)
+Added Component: Designator=U15(DIO_TPD4E02B04DQAR)
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U14-6
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U14-7
+Added Pin To Net: NetName=GND Pin=U14-8
+Added Pin To Net: NetName=IN_SSTX1_N Pin=U14-9
+Added Pin To Net: NetName=IN_SSTX1_P Pin=U14-10
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U15-6
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U15-7
+Added Pin To Net: NetName=GND Pin=U15-8
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U15-9
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U15-10
+Added Pin To Net: NetName=NetU12_2 Pin=U12-2
+Added Pin To Net: NetName=NetU12_2 Pin=U14-5
+Added Net: Name=NetU12_2
+Added Pin To Net: NetName=NetU12_3 Pin=U12-3
+Added Pin To Net: NetName=NetU12_3 Pin=U14-4
+Added Net: Name=NetU12_3
+Added Pin To Net: NetName=NetU12_4 Pin=U12-4
+Added Pin To Net: NetName=NetU12_4 Pin=U14-2
+Added Net: Name=NetU12_4
+Added Pin To Net: NetName=NetU12_5 Pin=U12-5
+Added Pin To Net: NetName=NetU12_5 Pin=U14-1
+Added Net: Name=NetU12_5
+Added Pin To Net: NetName=NetU12_6 Pin=U12-6
+Added Pin To Net: NetName=NetU12_6 Pin=U15-5
+Added Net: Name=NetU12_6
+Added Pin To Net: NetName=NetU12_7 Pin=U12-7
+Added Pin To Net: NetName=NetU12_7 Pin=U15-4
+Added Net: Name=NetU12_7
+Added Pin To Net: NetName=NetU12_8 Pin=U12-8
+Added Pin To Net: NetName=NetU12_8 Pin=U15-2
+Added Net: Name=NetU12_8
+Added Pin To Net: NetName=NetU12_9 Pin=U12-9
+Added Pin To Net: NetName=NetU12_9 Pin=U15-1
+Added Net: Name=NetU12_9
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
+Added Member To Class: ClassName=Vl822 Member=Component U14 TPD4E02B04
+Added Member To Class: ClassName=Vl822 Member=Component U15 TPD4E02B04

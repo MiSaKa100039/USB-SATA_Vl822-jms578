@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=IN_SSTX1P Pin=J3-A2
+Removed Pin From Net: NetName=IN_SSTX1N Pin=J3-A3
+Removed Pin From Net: NetName=USBDP Pin=J3-A6
+Removed Pin From Net: NetName=USBDN Pin=J3-A7
+Removed Pin From Net: NetName=IN_SSRX2N Pin=J3-A10
+Removed Pin From Net: NetName=IN_SSRX2P Pin=J3-A11
+Removed Pin From Net: NetName=IN_SSTX2P Pin=J3-B2
+Removed Pin From Net: NetName=IN_SSTX2N Pin=J3-B3
+Removed Pin From Net: NetName=USBDP Pin=J3-B6
+Removed Pin From Net: NetName=USBDN Pin=J3-B7
+Removed Pin From Net: NetName=IN_SSRX1N Pin=J3-B10
+Removed Pin From Net: NetName=IN_SSRX1P Pin=J3-B11
+Added Pin To Net: NetName=IN_SSRX1_N Pin=J3-B10
+Added Net: Name=IN_SSRX1_N
+Added Pin To Net: NetName=IN_SSRX1_P Pin=J3-B11
+Added Net: Name=IN_SSRX1_P
+Added Pin To Net: NetName=IN_SSRX2_N Pin=J3-A10
+Added Net: Name=IN_SSRX2_N
+Added Pin To Net: NetName=IN_SSRX2_P Pin=J3-A11
+Added Net: Name=IN_SSRX2_P
+Added Pin To Net: NetName=IN_SSTX1_N Pin=J3-A3
+Added Net: Name=IN_SSTX1_N
+Added Pin To Net: NetName=IN_SSTX1_P Pin=J3-A2
+Added Net: Name=IN_SSTX1_P
+Added Pin To Net: NetName=IN_SSTX2_N Pin=J3-B3
+Added Net: Name=IN_SSTX2_N
+Added Pin To Net: NetName=IN_SSTX2_P Pin=J3-B2
+Added Net: Name=IN_SSTX2_P
+Added Pin To Net: NetName=USBD_N Pin=J3-A7
+Added Pin To Net: NetName=USBD_N Pin=J3-B7
+Added Net: Name=USBD_N
+Added Pin To Net: NetName=USBD_P Pin=J3-A6
+Added Pin To Net: NetName=USBD_P Pin=J3-B6
+Added Net: Name=USBD_P
+Add Differential Pair: Number of nets in differential pair cap_TX2 is 1 instead of 2
+Added Differential Pair: Name=IN_SSRX1
+Added Differential Pair: Name=IN_SSRX2
+Added Differential Pair: Name=IN_SSTX1
+Added Differential Pair: Name=IN_SSTX2
+Added Differential Pair: Name=USBD

@@ -1,0 +1,90 @@
+Added Component: Designator=U12(MQFN-28_L4.5-W3.5-P0.40-BL-EP)
+Added Pin To Net: NetName=IN_SSTX1P Pin=U12-2
+Added Pin To Net: NetName=IN_SSTX1N Pin=U12-3
+Added Pin To Net: NetName=IN_SSTX2N Pin=U12-4
+Added Pin To Net: NetName=IN_SSTX2P Pin=U12-5
+Added Pin To Net: NetName=IN_SSRX1P Pin=U12-6
+Added Pin To Net: NetName=IN_SSRX1N Pin=U12-7
+Added Pin To Net: NetName=IN_SSRX2N Pin=U12-8
+Added Pin To Net: NetName=IN_SSRX2P Pin=U12-9
+Added Pin To Net: NetName=NetR48_2 Pin=U12-10
+Added Pin To Net: NetName=NetR46_2 Pin=U12-13
+Added Pin To Net: NetName=SSRXN Pin=U12-17
+Added Pin To Net: NetName=SSRXP Pin=U12-18
+Added Pin To Net: NetName=GND Pin=U12-19
+Added Pin To Net: NetName=SSTXN Pin=U12-20
+Added Pin To Net: NetName=SSTXP Pin=U12-21
+Added Pin To Net: NetName=NetR39_2 Pin=U12-23
+Added Pin To Net: NetName=NetR38_2 Pin=U12-24
+Added Pin To Net: NetName=NetR45_1 Pin=U12-25
+Added Pin To Net: NetName=VBUS Pin=U12-26
+Added Pin To Net: NetName=VBUS Pin=U12-27
+Added Pin To Net: NetName=IN_CC2 Pin=U12-28
+Added Pin To Net: NetName=GND Pin=U12-29
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-6
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Pin To Net: Unknown Pin: Pin U13-9
+Add Pin To Net: Unknown Pin: Pin U13-10
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Pin To Net: Unknown Pin: Pin U13-17
+Add Pin To Net: Unknown Pin: Pin U13-18
+Add Pin To Net: Unknown Pin: Pin U13-19
+Add Pin To Net: Unknown Pin: Pin U13-20
+Add Pin To Net: Unknown Pin: Pin U13-22
+Add Pin To Net: Unknown Pin: Pin U13-23
+Add Pin To Net: Unknown Pin: Pin U13-24
+Add Pin To Net: Unknown Pin: Pin U13-25
+Add Pin To Net: Unknown Pin: Pin U13-26
+Add Pin To Net: Unknown Pin: Pin U13-27
+Add Pin To Net: Unknown Pin: Pin U13-28
+Add Pin To Net: Unknown Pin: Pin U13-29
+Add Pin To Net: Unknown Pin: Pin U13-30
+Add Pin To Net: Unknown Pin: Pin U13-31
+Add Pin To Net: Unknown Pin: Pin U13-32
+Add Pin To Net: Unknown Pin: Pin U13-33
+Add Pin To Net: Unknown Pin: Pin U13-34
+Add Pin To Net: Unknown Pin: Pin U13-35
+Add Pin To Net: Unknown Pin: Pin U13-36
+Add Pin To Net: Unknown Pin: Pin U13-37
+Add Pin To Net: Unknown Pin: Pin U13-38
+Add Pin To Net: Unknown Pin: Pin U13-40
+Add Pin To Net: Unknown Pin: Pin U13-41
+Add Pin To Net: Unknown Pin: Pin U13-43
+Add Pin To Net: Unknown Pin: Pin U13-44
+Add Pin To Net: Unknown Pin: Pin U13-45
+Add Pin To Net: Unknown Pin: Pin U13-46
+Add Pin To Net: Unknown Pin: Pin U13-47
+Add Pin To Net: Unknown Pin: Pin U13-48
+Add Pin To Net: Unknown Pin: Pin U13-49
+Add Pin To Net: Unknown Pin: Pin U13-50
+Add Pin To Net: Unknown Pin: Pin U13-51
+Add Pin To Net: Unknown Pin: Pin U13-52
+Add Pin To Net: Unknown Pin: Pin U13-53
+Add Pin To Net: Unknown Pin: Pin U13-54
+Add Pin To Net: Unknown Pin: Pin U13-55
+Add Pin To Net: Unknown Pin: Pin U13-56
+Add Pin To Net: Unknown Pin: Pin U13-62
+Add Pin To Net: Unknown Pin: Pin U13-65
+Add Pin To Net: Unknown Pin: Pin U13-66
+Add Pin To Net: Unknown Pin: Pin U13-67
+Add Pin To Net: Unknown Pin: Pin U13-68
+Add Pin To Net: Unknown Pin: Pin U13-69
+Add Pin To Net: Unknown Pin: Pin U13-70
+Add Pin To Net: Unknown Pin: Pin U13-71
+Add Pin To Net: Unknown Pin: Pin U13-72
+Add Pin To Net: Unknown Pin: Pin U13-73
+Add Pin To Net: Unknown Pin: Pin U13-74
+Add Pin To Net: Unknown Pin: Pin U13-75
+Add Pin To Net: Unknown Pin: Pin U13-77
+Added Member To Class: ClassName=Vl822 Member=Component U12 VL160
+Add Class Member: Failed to add class member : Component U13 VL822 Q7

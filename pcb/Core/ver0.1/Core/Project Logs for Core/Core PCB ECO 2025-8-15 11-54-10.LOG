@@ -1,0 +1,3 @@
+Added Component: Designator=R?(R0201_L)
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
+Added Member To Class: ClassName=Vl822 Member=Component R? R

@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=cap_SSTX_N New Net Name=NetC134_2
+Change Net Name : Old Net Name=cap_SSTX_P New Net Name=NetC135_2
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC134_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC135_2 is 1 instead of 2

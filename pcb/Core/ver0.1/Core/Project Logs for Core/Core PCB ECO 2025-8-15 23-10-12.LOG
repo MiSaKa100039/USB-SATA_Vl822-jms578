@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SSTX_N Pin=U12-20
+Removed Pin From Net: NetName=SSTX_P Pin=U12-21
+Added Pin To Net: NetName=SSTX_P Pin=U12-20
+Added Pin To Net: NetName=SSTX_N Pin=U12-21
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2

@@ -1,0 +1,52 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED8
+Change Component Designator: OldDesignator=R? NewDesignator=R56
+Change Component Designator: OldDesignator=R? NewDesignator=R57
+Change Component Designator: OldDesignator=R? NewDesignator=R58
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R60
+Change Component Designator: OldDesignator=R? NewDesignator=R61
+Change Component Designator: OldDesignator=R? NewDesignator=R62
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED8_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R56-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R57-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R58-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R59-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R60-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R61-2
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R62-2
+Added Net: Name=NetLED7_1
+Added Member To Class: ClassName=Connector Member=Component LED1 green
+Added Member To Class: ClassName=Connector Member=Component LED3 green
+Added Member To Class: ClassName=Connector Member=Component LED4 green
+Added Member To Class: ClassName=Connector Member=Component LED5 green
+Added Member To Class: ClassName=Connector Member=Component LED6 green
+Added Member To Class: ClassName=Connector Member=Component LED7 green
+Added Member To Class: ClassName=Connector Member=Component LED8 green
+Added Member To Class: ClassName=Connector Member=Component R57 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R58 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R59 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R60 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R61 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R62 4.7K 1%
+Added Member To Class: ClassName=Connector Member=Component R63 4.7K 1%

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Y1 Old Footprint=OSC 1612-4P New Footprint=OSC 2025-4P
+Change Component Footprint: Designator=Y2 Old Footprint=OSC 1612-4P New Footprint=OSC 2025-4P
+Change Component Footprint: Designator=Y3 Old Footprint=OSC 1612-4P New Footprint=OSC 2025-4P
+Change Component Footprint: Designator=Y4 Old Footprint=OSC 1612-4P New Footprint=OSC 2025-4P
+Change Component Footprint: Designator=Y5 Old Footprint=OSC 1612-4P New Footprint=OSC 2025-4P
+Added Member To Class: ClassName=jms578 Member=Component Y1 30Mhz

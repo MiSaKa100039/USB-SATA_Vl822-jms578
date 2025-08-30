@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IN_SSTX2_P Pin=J3-B2
+Removed Pin From Net: NetName=IN_SSTX2_N Pin=J3-B3
+Removed Pin From Net: NetName=IN_SSRX1_N Pin=J3-B10
+Removed Pin From Net: NetName=IN_SSRX1_P Pin=J3-B11
+Added Pin To Net: NetName=IN_SSTX2_N Pin=J3-B2
+Added Pin To Net: NetName=IN_SSTX2_P Pin=J3-B3
+Added Pin To Net: NetName=IN_SSRX1_P Pin=J3-B10
+Added Pin To Net: NetName=IN_SSRX1_N Pin=J3-B11
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2

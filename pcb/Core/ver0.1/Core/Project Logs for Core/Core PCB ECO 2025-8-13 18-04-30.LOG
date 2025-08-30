@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC5V-A Pin=C117-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C118-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C119-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C120-2
+Removed Pin From Net: NetName=VCC5V-A Pin=L6-2
+Removed Pin From Net: NetName=VCC5V-A Pin=R26-1
+Removed Pin From Net: NetName=VSENSE-A Pin=R26-2
+Removed Pin From Net: NetName=VSENSE-A Pin=R29-1
+Removed Pin From Net: NetName=VSENSE-A Pin=U10-6
+Added Pin To Net: NetName=VCC5V-B Pin=C117-2
+Added Pin To Net: NetName=VCC5V-B Pin=C118-2
+Added Pin To Net: NetName=VCC5V-B Pin=C119-2
+Added Pin To Net: NetName=VCC5V-B Pin=C120-2
+Added Pin To Net: NetName=VCC5V-B Pin=L6-2
+Added Pin To Net: NetName=VCC5V-B Pin=R26-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Added Pin To Net: NetName=VSENSE-B Pin=R26-2
+Added Pin To Net: NetName=VSENSE-B Pin=R29-1
+Added Pin To Net: NetName=VSENSE-B Pin=U10-6
+Added Net: Name=VSENSE-B
+Added Class: Name=PWR

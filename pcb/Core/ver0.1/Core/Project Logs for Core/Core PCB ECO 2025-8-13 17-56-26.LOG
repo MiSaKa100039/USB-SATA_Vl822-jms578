@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=cap_SSTX2_N Pin=C52-2
+Added Pin To Net: NetName=cap_SSTX2_P Pin=C54-2
+Added Pin To Net: NetName=cap_SSTX2_N Pin=U2-19
+Added Pin To Net: NetName=cap_SSTX2_P Pin=U2-20
+Change Net Name : Old Net Name=NetC51_2 New Net Name=cap_SSRX1_N
+Change Net Name : Old Net Name=NetC53_2 New Net Name=cap_SSRX1_P
+Change Net Name : Old Net Name=NetC93_2 New Net Name=cap_SSRX3_N
+Change Net Name : Old Net Name=NetC94_2 New Net Name=cap_SSRX4_N
+Change Net Name : Old Net Name=NetC95_2 New Net Name=cap_SSRX3_P
+Change Net Name : Old Net Name=NetC96_2 New Net Name=cap_SSRX4_P
+Added Differential Pair: Name=SSTX1
+Added Differential Pair: Name=SSTX2
+Added Differential Pair: Name=SSTX3
+Added Differential Pair: Name=SSTX4

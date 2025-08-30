@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=cap_TX1_P Pin=C2-1
+Removed Pin From Net: NetName=cap_TX1_P Pin=C9-1
+Removed Pin From Net: NetName=cap_TX1_P Pin=C10-1
+Removed Pin From Net: NetName=cap_TX1_P Pin=J2-S2
+Removed Pin From Net: NetName=cap_TX1_P Pin=J4-S2
+Removed Pin From Net: NetName=cap_TX1_P Pin=J5-S2
+Removed Member From Class: ClassName=Sata Member=GND
+Added Pin To Net: NetName=cap_TX2_P Pin=C2-1
+Added Pin To Net: NetName=cap_TX2_P Pin=J2-S2
+Added Net: Name=cap_TX2_P
+Added Pin To Net: NetName=cap_TX3_P Pin=C9-1
+Added Pin To Net: NetName=cap_TX3_P Pin=J4-S2
+Added Net: Name=cap_TX3_P
+Added Pin To Net: NetName=cap_TX4_P Pin=C10-1
+Added Pin To Net: NetName=cap_TX4_P Pin=J5-S2
+Added Net: Name=cap_TX4_P
+Add Differential Pair: Number of nets in differential pair cap_TX2 is 1 instead of 2
+Added Member To Class: ClassName=Sata Member=Wire cap_TX2_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX3_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX4_P

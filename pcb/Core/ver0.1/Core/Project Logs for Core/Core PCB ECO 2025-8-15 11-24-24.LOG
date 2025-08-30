@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=SSRX1_N Pin=C51-1
+Removed Pin From Net: NetName=SSTX2_N Pin=C52-1
+Removed Pin From Net: NetName=cap_SSTX2_N Pin=C52-2
+Removed Pin From Net: NetName=SSRX1_P Pin=C53-1
+Removed Pin From Net: NetName=SSTX2_P Pin=C54-1
+Removed Pin From Net: NetName=cap_SSTX2_P Pin=C54-2
+Removed Pin From Net: NetName=SSRX3_N Pin=C93-1
+Removed Pin From Net: NetName=SSRX4_N Pin=C94-1
+Removed Pin From Net: NetName=SSRX4_P Pin=C96-1
+Removed Pin From Net: NetName=HSD1_N Pin=U1-13
+Removed Pin From Net: NetName=HSD1_P Pin=U1-15
+Removed Pin From Net: NetName=SSTX1_N Pin=U1-22
+Removed Pin From Net: NetName=SSTX1_P Pin=U1-23
+Removed Pin From Net: NetName=RX1_P Pin=U1-30
+Removed Pin From Net: NetName=RX1_N Pin=U1-31
+Removed Pin From Net: NetName=TX1_N Pin=U1-33
+Removed Pin From Net: NetName=TX1_P Pin=U1-34
+Removed Pin From Net: NetName=HSD2_N Pin=U2-13
+Removed Pin From Net: NetName=HSD2_P Pin=U2-15
+Removed Pin From Net: NetName=cap_SSTX2_N Pin=U2-19
+Removed Pin From Net: NetName=cap_SSTX2_P Pin=U2-20
+Removed Pin From Net: NetName=SSRX2_N Pin=U2-22
+Removed Pin From Net: NetName=SSRX2_P Pin=U2-23
+Removed Pin From Net: NetName=RX2_P Pin=U2-30
+Removed Pin From Net: NetName=RX2_N Pin=U2-31
+Removed Pin From Net: NetName=TX2_N Pin=U2-33
+Removed Pin From Net: NetName=TX2_P Pin=U2-34
+Removed Pin From Net: NetName=HSD3_N Pin=U5-13
+Removed Pin From Net: NetName=SSTX3_P Pin=U5-23
+Removed Pin From Net: NetName=RX3_P Pin=U5-30
+Removed Pin From Net: NetName=RX3_N Pin=U5-31
+Removed Pin From Net: NetName=TX3_N Pin=U5-33
+Removed Pin From Net: NetName=TX3_P Pin=U5-34
+Removed Pin From Net: NetName=HSD4_N Pin=U6-13
+Removed Pin From Net: NetName=HSD4_P Pin=U6-15
+Removed Pin From Net: NetName=SSTX4_N Pin=U6-22
+Removed Pin From Net: NetName=SSTX4_P Pin=U6-23
+Removed Pin From Net: NetName=RX4_P Pin=U6-30
+Removed Pin From Net: NetName=RX4_N Pin=U6-31
+Removed Pin From Net: NetName=TX4_N Pin=U6-33
+Removed Pin From Net: NetName=TX4_P Pin=U6-34
+Removed Member From Class: ClassName=USB Member=cap_SSRX3_N
+Added Pin To Net: NetName=SSRX4_N Pin=C51-1
+Added Pin To Net: NetName=SSTX3_N Pin=C52-1
+Added Pin To Net: NetName=cap_SSTX3_N Pin=C52-2
+Added Pin To Net: NetName=SSRX4_P Pin=C53-1
+Added Pin To Net: NetName=SSTX3_P Pin=C54-1
+Added Pin To Net: NetName=cap_SSTX3_P Pin=C54-2
+Added Pin To Net: NetName=SSRX2_N Pin=C93-1
+Added Pin To Net: NetName=SSRX1_N Pin=C94-1
+Added Pin To Net: NetName=SSRX1_P Pin=C96-1
+Added Pin To Net: NetName=HSD4_N Pin=U1-13
+Added Pin To Net: NetName=HSD4_P Pin=U1-15
+Added Pin To Net: NetName=SSTX4_N Pin=U1-22
+Added Pin To Net: NetName=SSTX4_P Pin=U1-23
+Added Pin To Net: NetName=RX4_P Pin=U1-30
+Added Pin To Net: NetName=RX4_N Pin=U1-31
+Added Pin To Net: NetName=TX4_N Pin=U1-33
+Added Pin To Net: NetName=TX4_P Pin=U1-34
+Added Pin To Net: NetName=HSD3_N Pin=U2-13
+Added Pin To Net: NetName=HSD3_P Pin=U2-15
+Added Pin To Net: NetName=cap_SSTX3_N Pin=U2-19
+Added Pin To Net: NetName=cap_SSTX3_P Pin=U2-20
+Added Pin To Net: NetName=SSRX3_N Pin=U2-22
+Added Pin To Net: NetName=SSRX3_P Pin=U2-23
+Added Pin To Net: NetName=RX3_P Pin=U2-30
+Added Pin To Net: NetName=RX3_N Pin=U2-31
+Added Pin To Net: NetName=TX3_N Pin=U2-33
+Added Pin To Net: NetName=TX3_P Pin=U2-34
+Added Pin To Net: NetName=HSD2_N Pin=U5-13
+Added Pin To Net: NetName=SSTX2_P Pin=U5-23
+Added Pin To Net: NetName=RX2_P Pin=U5-30
+Added Pin To Net: NetName=RX2_N Pin=U5-31
+Added Pin To Net: NetName=TX2_N Pin=U5-33
+Added Pin To Net: NetName=TX2_P Pin=U5-34
+Added Pin To Net: NetName=HSD1_N Pin=U6-13
+Added Pin To Net: NetName=HSD1_P Pin=U6-15
+Added Pin To Net: NetName=SSTX1_N Pin=U6-22
+Added Pin To Net: NetName=SSTX1_P Pin=U6-23
+Added Pin To Net: NetName=RX1_P Pin=U6-30
+Added Pin To Net: NetName=RX1_N Pin=U6-31
+Added Pin To Net: NetName=TX1_N Pin=U6-33
+Added Pin To Net: NetName=TX1_P Pin=U6-34
+Change Net Name : Old Net Name=cap_SSRX1_N New Net Name=cap_SSRX4_N
+Change Net Name : Old Net Name=cap_SSRX1_P New Net Name=cap_SSRX4_P
+Change Net Name : Old Net Name=cap_SSRX3_N New Net Name=cap_SSRX2_N
+Change Net Name : Old Net Name=cap_SSRX4_N New Net Name=cap_SSRX1_N
+Change Net Name : Old Net Name=cap_SSRX4_P New Net Name=cap_SSRX1_P
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX2_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX4_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX4_P

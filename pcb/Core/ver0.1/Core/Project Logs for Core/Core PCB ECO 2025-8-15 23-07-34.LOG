@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SSRX_N Pin=U13-52
+Removed Pin From Net: NetName=SSRX_P Pin=U13-53
+Added Pin To Net: NetName=SSRX_P Pin=U13-52
+Added Pin To Net: NetName=SSRX_N Pin=U13-53
+Change Net Name : Old Net Name=cap_SSTX_N New Net Name=cap_SSTX_P
+Change Net Name : Old Net Name=cap_SSTX_P New Net Name=cap_SSTX_N
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
