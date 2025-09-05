@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=C130 Old Footprint=C0402_L New Footprint=C0402_L
+Change Physical Footprint: Designator=J1 Old Footprint=SATA 15P ÌùÆ¬ New Footprint=SATA 15P ÌùÆ¬
+Change Physical Footprint: Designator=J2 Old Footprint=SATA 15P ÌùÆ¬ New Footprint=SATA 15P ÌùÆ¬
+Change Physical Footprint: Designator=J4 Old Footprint=SATA 15P ÌùÆ¬ New Footprint=SATA 15P ÌùÆ¬
+Change Physical Footprint: Designator=Q1 Old Footprint=DFN8-L3.0-W3.0-P0.65_EP New Footprint=DFN8-L3.0-W3.0-P0.65_EP
