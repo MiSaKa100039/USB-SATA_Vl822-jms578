@@ -2,84 +2,84 @@
 FileName = Core.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : Core.GM13
+Generating : Layer 2
+      File : Core.G2
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Layer 2
 
-
-Used DCodes :
-    D11
-    D18
-    D123
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Core.GM1
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D120
-    D121
+    D17
+    D63
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Core.GKO
+Generating : Bottom Layer
+      File : Core.GBL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D120
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Core.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
     D13
     D14
     D15
-    D16
     D17
-    D18
+    D23
+    D24
+    D27
+    D28
+    D63
+    D64
+    D65
+    D66
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Core.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D14
-    D15
-    D16
-    D17
-    D119
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Core.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : Core.GTL
 
     Adding Layer      : Top Layer
 
@@ -87,6 +87,11 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D13
+    D14
+    D15
+    D17
+    D18
     D19
     D20
     D21
@@ -100,22 +105,49 @@ Used DCodes :
     D29
     D30
     D31
-    D32
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : Core.GM15
+Generating : Layer 1
+      File : Core.G1
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D67
-    D123
-    D124
-    D125
-    D126
+    D64
+    D65
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
 *************************************************************
 
 *************************************************************
@@ -130,19 +162,17 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D36
-    D37
-    D44
+    D42
+    D43
     D45
-    D49
+    D46
     D50
     D51
     D52
     D53
     D54
     D55
-    D97
-    D98
+    D56
     D99
     D100
     D101
@@ -162,25 +192,15 @@ Used DCodes :
     D115
     D116
     D117
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 6
-      File : Core.GM6
-
-    Adding Layer      : Mechanical 6
-
-
-Used DCodes :
-    D12
+    D118
     D119
-    D122
-    D123
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Core.GPB
+Generating : Bottom Paste
+      File : Core.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -188,26 +208,11 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D13
-    D19
-    D20
+    D23
+    D24
+    D27
     D28
-    D29
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D76
-    D77
     D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
     D85
     D86
     D87
@@ -218,6 +223,30 @@ Used DCodes :
     D92
     D93
     D94
+    D95
+    D96
+    D97
+    D98
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Core.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D121
+    D122
 *************************************************************
 
 *************************************************************
@@ -232,6 +261,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D32
     D33
     D34
     D35
@@ -255,11 +285,178 @@ Used DCodes :
     D53
     D54
     D55
+    D56
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Core.GBL
+Generating : Top Paste
+      File : Core.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Core.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Core.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : Core.GM6
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+    D11
+    D121
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : Core.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Core.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D17
+    D125
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : Core.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Core.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : Core.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Core.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Core.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -267,28 +464,17 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D18
-    D19
-    D20
+    D23
+    D24
+    D27
     D28
-    D29
-    D62
-    D63
-    D64
-    D65
-    D68
     D69
     D70
     D71
     D72
     D73
     D74
-    D76
-    D77
+    D75
     D78
     D79
     D80
@@ -311,165 +497,48 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Core.GTL
+Generating : Mechanical 15
+      File : Core.GM15
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
     D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
+    D125
+    D127
+    D128
+    D129
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Core.GBP
+Generating : Mechanical 2
+      File : Core.GM2
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Mechanical 2
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : Core.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Core.GML
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D28
-    D29
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : Core.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D62
-    D65
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Core.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : Core.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D18
-    D64
-    D68
     D69
     D70
     D71
@@ -489,8 +558,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D18
-    D127
+    D17
+    D130
 *************************************************************
 
 *************************************************************
@@ -503,7 +572,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D18
+    D17
 *************************************************************
 
 *************************************************************
@@ -512,6 +581,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D128
+    D131
 *************************************************************
 
