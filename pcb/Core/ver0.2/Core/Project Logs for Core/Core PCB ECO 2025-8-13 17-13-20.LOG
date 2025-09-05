@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=TX1_P Pin=C1-2
+Added Pin To Net: NetName=TX2_P Pin=C2-2
+Added Pin To Net: NetName=TX1_N Pin=C3-2
+Added Pin To Net: NetName=TX2_N Pin=C4-2
+Added Pin To Net: NetName=RX1_N Pin=C5-2
+Added Pin To Net: NetName=RX2_N Pin=C6-2
+Added Pin To Net: NetName=RX1_P Pin=C7-2
+Added Pin To Net: NetName=RX2_P Pin=C8-2
+Added Pin To Net: NetName=TX3_P Pin=C9-2
+Added Pin To Net: NetName=TX4_P Pin=C10-2
+Added Pin To Net: NetName=TX3_N Pin=C11-2
+Added Pin To Net: NetName=TX4_N Pin=C12-2
+Added Pin To Net: NetName=RX3_N Pin=C13-2
+Added Pin To Net: NetName=RX4_N Pin=C14-2
+Added Pin To Net: NetName=RX3_P Pin=C15-2
+Added Pin To Net: NetName=RX4_P Pin=C16-2
+Change Net Color : Old Net Color=RGB(0, 156, 202) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 156, 202) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 156, 202) New Net Color=Default
+Change Class Name : Old Net Name=Sata_Out New Net Name=Sata

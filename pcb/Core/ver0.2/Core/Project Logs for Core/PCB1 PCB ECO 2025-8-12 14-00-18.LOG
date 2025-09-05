@@ -1,0 +1,159 @@
+Added Component: Designator=J3(moled Typec 24p)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1054500101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-P4
+Add Pin To Net: Unknown Pin: Pin J1-P5
+Add Pin To Net: Unknown Pin: Pin J1-P6
+Add Pin To Net: Unknown Pin: Pin J1-P7
+Add Pin To Net: Unknown Pin: Pin J1-P8
+Add Pin To Net: Unknown Pin: Pin J1-P9
+Add Pin To Net: Unknown Pin: Pin J1-P10
+Add Pin To Net: Unknown Pin: Pin J1-P11
+Add Pin To Net: Unknown Pin: Pin J1-P12
+Add Pin To Net: Unknown Pin: Pin J1-P13
+Add Pin To Net: Unknown Pin: Pin J1-P14
+Add Pin To Net: Unknown Pin: Pin J1-P15
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Add Pin To Net: Unknown Pin: Pin J1-S3
+Add Pin To Net: Unknown Pin: Pin J1-S4
+Add Pin To Net: Unknown Pin: Pin J1-S5
+Add Pin To Net: Unknown Pin: Pin J1-S6
+Add Pin To Net: Unknown Pin: Pin J1-S7
+Add Pin To Net: Unknown Pin: Pin J2-P4
+Add Pin To Net: Unknown Pin: Pin J2-P5
+Add Pin To Net: Unknown Pin: Pin J2-P6
+Add Pin To Net: Unknown Pin: Pin J2-P7
+Add Pin To Net: Unknown Pin: Pin J2-P8
+Add Pin To Net: Unknown Pin: Pin J2-P9
+Add Pin To Net: Unknown Pin: Pin J2-P10
+Add Pin To Net: Unknown Pin: Pin J2-P11
+Add Pin To Net: Unknown Pin: Pin J2-P12
+Add Pin To Net: Unknown Pin: Pin J2-P13
+Add Pin To Net: Unknown Pin: Pin J2-P14
+Add Pin To Net: Unknown Pin: Pin J2-P15
+Add Pin To Net: Unknown Pin: Pin J2-S1
+Add Pin To Net: Unknown Pin: Pin J2-S2
+Add Pin To Net: Unknown Pin: Pin J2-S3
+Add Pin To Net: Unknown Pin: Pin J2-S4
+Add Pin To Net: Unknown Pin: Pin J2-S5
+Add Pin To Net: Unknown Pin: Pin J2-S6
+Add Pin To Net: Unknown Pin: Pin J2-S7
+Added Pin To Net: NetName=GND Pin=J3-A1
+Added Pin To Net: NetName=IN_SSTX1P Pin=J3-A2
+Added Pin To Net: NetName=IN_SSTX1N Pin=J3-A3
+Added Pin To Net: NetName=VBUS Pin=J3-A4
+Added Pin To Net: NetName=IN_CC1 Pin=J3-A5
+Added Pin To Net: NetName=USBDP Pin=J3-A6
+Added Pin To Net: NetName=USBDN Pin=J3-A7
+Added Pin To Net: NetName=VBUS Pin=J3-A9
+Added Pin To Net: NetName=IN_SSRX2N Pin=J3-A10
+Added Pin To Net: NetName=IN_SSRX2P Pin=J3-A11
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=GND Pin=J3-B1
+Added Pin To Net: NetName=IN_SSTX2P Pin=J3-B2
+Added Pin To Net: NetName=IN_SSTX2N Pin=J3-B3
+Added Pin To Net: NetName=VBUS Pin=J3-B4
+Added Pin To Net: NetName=IN_CC2 Pin=J3-B5
+Added Pin To Net: NetName=USBDP Pin=J3-B6
+Added Pin To Net: NetName=USBDN Pin=J3-B7
+Added Pin To Net: NetName=VBUS Pin=J3-B9
+Added Pin To Net: NetName=IN_SSRX1N Pin=J3-B10
+Added Pin To Net: NetName=IN_SSRX1P Pin=J3-B11
+Added Pin To Net: NetName=GND Pin=J3-B12
+Added Pin To Net: NetName=GND Pin=J3-SH1
+Added Pin To Net: NetName=GND Pin=J3-SH2
+Added Pin To Net: NetName=GND Pin=J3-SH3
+Added Pin To Net: NetName=GND Pin=J3-SH4
+Add Pin To Net: Unknown Pin: Pin J4-P4
+Add Pin To Net: Unknown Pin: Pin J4-P5
+Add Pin To Net: Unknown Pin: Pin J4-P6
+Add Pin To Net: Unknown Pin: Pin J4-P7
+Add Pin To Net: Unknown Pin: Pin J4-P8
+Add Pin To Net: Unknown Pin: Pin J4-P9
+Add Pin To Net: Unknown Pin: Pin J4-P10
+Add Pin To Net: Unknown Pin: Pin J4-P11
+Add Pin To Net: Unknown Pin: Pin J4-P12
+Add Pin To Net: Unknown Pin: Pin J4-P13
+Add Pin To Net: Unknown Pin: Pin J4-P14
+Add Pin To Net: Unknown Pin: Pin J4-P15
+Add Pin To Net: Unknown Pin: Pin J4-S1
+Add Pin To Net: Unknown Pin: Pin J4-S2
+Add Pin To Net: Unknown Pin: Pin J4-S3
+Add Pin To Net: Unknown Pin: Pin J4-S4
+Add Pin To Net: Unknown Pin: Pin J4-S5
+Add Pin To Net: Unknown Pin: Pin J4-S6
+Add Pin To Net: Unknown Pin: Pin J4-S7
+Add Pin To Net: Unknown Pin: Pin J5-P4
+Add Pin To Net: Unknown Pin: Pin J5-P5
+Add Pin To Net: Unknown Pin: Pin J5-P6
+Add Pin To Net: Unknown Pin: Pin J5-P7
+Add Pin To Net: Unknown Pin: Pin J5-P8
+Add Pin To Net: Unknown Pin: Pin J5-P9
+Add Pin To Net: Unknown Pin: Pin J5-P10
+Add Pin To Net: Unknown Pin: Pin J5-P11
+Add Pin To Net: Unknown Pin: Pin J5-P12
+Add Pin To Net: Unknown Pin: Pin J5-P13
+Add Pin To Net: Unknown Pin: Pin J5-P14
+Add Pin To Net: Unknown Pin: Pin J5-P15
+Add Pin To Net: Unknown Pin: Pin J5-S1
+Add Pin To Net: Unknown Pin: Pin J5-S2
+Add Pin To Net: Unknown Pin: Pin J5-S3
+Add Pin To Net: Unknown Pin: Pin J5-S4
+Add Pin To Net: Unknown Pin: Pin J5-S5
+Add Pin To Net: Unknown Pin: Pin J5-S6
+Add Pin To Net: Unknown Pin: Pin J5-S7
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Add Pin To Net: Unknown Pin: Pin Y2-3
+Add Pin To Net: Unknown Pin: Pin Y2-4
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Pin To Net: Unknown Pin: Pin Y3-3
+Add Pin To Net: Unknown Pin: Pin Y3-4
+Add Pin To Net: Unknown Pin: Pin Y4-1
+Add Pin To Net: Unknown Pin: Pin Y4-2
+Add Pin To Net: Unknown Pin: Pin Y4-3
+Add Pin To Net: Unknown Pin: Pin Y4-4
+Add Pin To Net: Unknown Pin: Pin Y5-1
+Add Pin To Net: Unknown Pin: Pin Y5-2
+Add Pin To Net: Unknown Pin: Pin Y5-3
+Add Pin To Net: Unknown Pin: Pin Y5-4
+Add Class Member: Failed to add class member : Component J1 SATA15P
+Add Class Member: Failed to add class member : Component J2 SATA15P
+Added Member To Class: ClassName=Connector Member=Component J3 Typec 24p
+Add Class Member: Failed to add class member : Component J4 SATA15P
+Add Class Member: Failed to add class member : Component J5 SATA15P
+Add Class Member: Failed to add class member : Component U9 TPS54335A
+Add Class Member: Failed to add class member : Component U10 TPS54335A
+Add Class Member: Failed to add class member : Component Y1 30Mhz
+Add Class Member: Failed to add class member : Component Y2 30Mhz
+Add Class Member: Failed to add class member : Component Y3 30Mhz
+Add Class Member: Failed to add class member : Component Y4 30Mhz
+Add Class Member: Failed to add class member : Component Y5 25Mhz

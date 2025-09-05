@@ -1,0 +1,45 @@
+Added Pin To Net: NetName=SSTX1_P Pin=C132-1
+Added Pin To Net: NetName=SSTX1_N Pin=C133-1
+Added Pin To Net: NetName=SSTX2_P Pin=C136-1
+Added Pin To Net: NetName=SSTX2_N Pin=C137-1
+Added Pin To Net: NetName=SSTX3_P Pin=C138-1
+Added Pin To Net: NetName=SSTX3_N Pin=C139-1
+Added Pin To Net: NetName=SSTX4_P Pin=C140-1
+Added Pin To Net: NetName=SSTX4_N Pin=C141-1
+Added Pin To Net: NetName=IN_CC1 Pin=U12-1
+Added Pin To Net: NetName=IN_SSTX1_P Pin=U12-2
+Added Pin To Net: NetName=IN_SSTX1_N Pin=U12-3
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U12-4
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U12-5
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U12-6
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U12-7
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U12-8
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U12-9
+Added Pin To Net: NetName=SSRX1_P Pin=U13-6
+Added Pin To Net: NetName=SSRX1_N Pin=U13-7
+Added Pin To Net: NetName=HSD1_P Pin=U13-9
+Added Pin To Net: NetName=HSD1_N Pin=U13-10
+Added Pin To Net: NetName=SSRX2_P Pin=U13-15
+Added Pin To Net: NetName=SSRX2_N Pin=U13-16
+Added Pin To Net: NetName=HSD2_P Pin=U13-18
+Added Pin To Net: NetName=HSD2_N Pin=U13-19
+Added Pin To Net: NetName=HSD3_P Pin=U13-22
+Added Pin To Net: NetName=HSD3_N Pin=U13-23
+Added Pin To Net: NetName=SSRX3_P Pin=U13-28
+Added Pin To Net: NetName=SSRX3_N Pin=U13-29
+Added Pin To Net: NetName=SSRX4_P Pin=U13-34
+Added Pin To Net: NetName=SSRX4_N Pin=U13-35
+Added Pin To Net: NetName=HSD4_P Pin=U13-37
+Added Pin To Net: NetName=HSD4_N Pin=U13-38
+Added Pin To Net: NetName=USBD_P Pin=U13-55
+Added Pin To Net: NetName=USBD_N Pin=U13-56
+Change Net Name : Old Net Name=SSRXN New Net Name=SSRX_N
+Change Net Name : Old Net Name=SSRXP New Net Name=SSRX_P
+Change Net Name : Old Net Name=SSTXN New Net Name=SSTX_N
+Change Net Name : Old Net Name=SSTXP New Net Name=SSTX_P
+Added Differential Pair: Name=SSRX
+Added Differential Pair: Name=SSTX
+Added Member To Class: ClassName=USB Member=Wire SSRX_N
+Added Member To Class: ClassName=USB Member=Wire SSRX_P
+Added Member To Class: ClassName=USB Member=Wire SSTX_N
+Added Member To Class: ClassName=USB Member=Wire SSTX_P

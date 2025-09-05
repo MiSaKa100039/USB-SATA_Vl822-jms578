@@ -1,0 +1,32 @@
+Added Component: Designator=C161(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C162(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C163(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C164(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C161-1
+Added Pin To Net: NetName=VCC3V3-A Pin=C161-2
+Added Pin To Net: NetName=GND Pin=C162-1
+Added Pin To Net: NetName=VCC3V3-B Pin=C162-2
+Added Pin To Net: NetName=GND Pin=C163-1
+Added Pin To Net: NetName=VCC3V3-C Pin=C163-2
+Added Pin To Net: NetName=GND Pin=C164-1
+Added Pin To Net: NetName=VCC3V3-D Pin=C164-2
+Added Member To Class: ClassName=jms578 Member=Component C161 100nF 6.3V
+Added Member To Class: ClassName=jms578 Member=Component C162 100nF 6.3V
+Added Member To Class: ClassName=jms578 Member=Component C163 100nF 6.3V
+Added Member To Class: ClassName=jms578 Member=Component C164 100nF 6.3V

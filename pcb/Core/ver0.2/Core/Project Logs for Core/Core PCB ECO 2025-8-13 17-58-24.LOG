@@ -1,0 +1,9 @@
+Added Differential Pair: Name=cap_SSRX1
+Added Differential Pair: Name=cap_SSRX3
+Added Differential Pair: Name=cap_SSRX4
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX1_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX1_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX3_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX3_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX4_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX4_P

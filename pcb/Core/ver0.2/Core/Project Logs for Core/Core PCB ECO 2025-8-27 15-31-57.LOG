@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C130-1
+Removed Pin From Net: NetName=VBUS Pin=C130-2
+Removed Member From Class: ClassName=Vl822 Member=C130
+Removed Member From Class: ClassName=Vl822 Member=R64

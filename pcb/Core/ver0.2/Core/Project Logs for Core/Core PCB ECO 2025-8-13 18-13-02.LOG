@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=PWR Member=Wire GND
+Added Member To Class: ClassName=PWR Member=Wire VBUS
+Added Member To Class: ClassName=PWR Member=Wire VCC1V0
+Added Member To Class: ClassName=PWR Member=Wire VCC3V3
+Added Member To Class: ClassName=PWR Member=Wire VCC5V-A
+Added Member To Class: ClassName=PWR Member=Wire VCC5V-B
+Added Member To Class: ClassName=PWR Member=Wire VCC12V
+Added Member To Class: ClassName=PWR Member=Wire VIN

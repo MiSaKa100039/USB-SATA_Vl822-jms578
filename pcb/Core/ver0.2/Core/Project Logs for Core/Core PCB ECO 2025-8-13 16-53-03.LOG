@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=SSRX1N Pin=C51-1
+Removed Pin From Net: NetName=SSTX2N Pin=C52-1
+Removed Pin From Net: NetName=SSRX1P Pin=C53-1
+Removed Pin From Net: NetName=SSTX2P Pin=C54-1
+Removed Pin From Net: NetName=SSRX3N Pin=C93-1
+Removed Pin From Net: NetName=SSRX4N Pin=C94-1
+Removed Pin From Net: NetName=SSRX3P Pin=C95-1
+Removed Pin From Net: NetName=SSRX4P Pin=C96-1
+Removed Pin From Net: NetName=HSD1N Pin=U1-13
+Removed Pin From Net: NetName=HSD1P Pin=U1-15
+Removed Pin From Net: NetName=SSTX1N Pin=U1-22
+Removed Pin From Net: NetName=SSTX1P Pin=U1-23
+Removed Pin From Net: NetName=RX1P Pin=U1-30
+Removed Pin From Net: NetName=RX1N Pin=U1-31
+Removed Pin From Net: NetName=TX1N Pin=U1-33
+Removed Pin From Net: NetName=TX1P Pin=U1-34
+Removed Pin From Net: NetName=HSD2N Pin=U2-13
+Removed Pin From Net: NetName=HSD2P Pin=U2-15
+Removed Pin From Net: NetName=SSRX2N Pin=U2-22
+Removed Pin From Net: NetName=SSRX2P Pin=U2-23
+Removed Pin From Net: NetName=RX2P Pin=U2-30
+Removed Pin From Net: NetName=RX2N Pin=U2-31
+Removed Pin From Net: NetName=TX2N Pin=U2-33
+Removed Pin From Net: NetName=TX2P Pin=U2-34
+Removed Pin From Net: NetName=HSD3N Pin=U5-13
+Removed Pin From Net: NetName=HSD3P Pin=U5-15
+Removed Pin From Net: NetName=SSTX3N Pin=U5-22
+Removed Pin From Net: NetName=SSTX3P Pin=U5-23
+Removed Pin From Net: NetName=RX3P Pin=U5-30
+Removed Pin From Net: NetName=RX3N Pin=U5-31
+Removed Pin From Net: NetName=TX3N Pin=U5-33
+Removed Pin From Net: NetName=TX3P Pin=U5-34
+Removed Pin From Net: NetName=HSD4N Pin=U6-13
+Removed Pin From Net: NetName=HSD4P Pin=U6-15
+Removed Pin From Net: NetName=SSTX4N Pin=U6-22
+Removed Pin From Net: NetName=SSTX4P Pin=U6-23
+Removed Pin From Net: NetName=RX4P Pin=U6-30
+Removed Pin From Net: NetName=RX4N Pin=U6-31
+Removed Pin From Net: NetName=TX4N Pin=U6-33
+Removed Pin From Net: NetName=TX4P Pin=U6-34
+Added Pin To Net: NetName=HSD1_N Pin=U1-13
+Added Net: Name=HSD1_N
+Added Pin To Net: NetName=HSD1_P Pin=U1-15
+Added Net: Name=HSD1_P
+Added Pin To Net: NetName=HSD2_N Pin=U2-13
+Added Net: Name=HSD2_N
+Added Pin To Net: NetName=HSD2_P Pin=U2-15
+Added Net: Name=HSD2_P
+Added Pin To Net: NetName=HSD3_N Pin=U5-13
+Added Net: Name=HSD3_N
+Added Pin To Net: NetName=HSD3_P Pin=U5-15
+Added Net: Name=HSD3_P
+Added Pin To Net: NetName=HSD4_N Pin=U6-13
+Added Net: Name=HSD4_N
+Added Pin To Net: NetName=HSD4_P Pin=U6-15
+Added Net: Name=HSD4_P
+Added Pin To Net: NetName=RX1_N Pin=U1-31
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=U1-30
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX2_N Pin=U2-31
+Added Net: Name=RX2_N
+Added Pin To Net: NetName=RX2_P Pin=U2-30
+Added Net: Name=RX2_P
+Added Pin To Net: NetName=RX3_N Pin=U5-31
+Added Net: Name=RX3_N
+Added Pin To Net: NetName=RX3_P Pin=U5-30
+Added Net: Name=RX3_P
+Added Pin To Net: NetName=RX4_N Pin=U6-31
+Added Net: Name=RX4_N
+Added Pin To Net: NetName=RX4_P Pin=U6-30
+Added Net: Name=RX4_P
+Added Pin To Net: NetName=SSRX1_N Pin=C51-1
+Added Net: Name=SSRX1_N
+Added Pin To Net: NetName=SSRX1_P Pin=C53-1
+Added Net: Name=SSRX1_P
+Added Pin To Net: NetName=SSRX2_N Pin=U2-22
+Added Net: Name=SSRX2_N
+Added Pin To Net: NetName=SSRX2_P Pin=U2-23
+Added Net: Name=SSRX2_P
+Added Pin To Net: NetName=SSRX3_N Pin=C93-1
+Added Net: Name=SSRX3_N
+Added Pin To Net: NetName=SSRX3_P Pin=C95-1
+Added Net: Name=SSRX3_P
+Added Pin To Net: NetName=SSRX4_N Pin=C94-1
+Added Net: Name=SSRX4_N
+Added Pin To Net: NetName=SSRX4_P Pin=C96-1
+Added Net: Name=SSRX4_P
+Added Pin To Net: NetName=SSTX1_N Pin=U1-22
+Added Net: Name=SSTX1_N
+Added Pin To Net: NetName=SSTX1_P Pin=U1-23
+Added Net: Name=SSTX1_P
+Added Pin To Net: NetName=SSTX2_N Pin=C52-1
+Added Net: Name=SSTX2_N
+Added Pin To Net: NetName=SSTX2_P Pin=C54-1
+Added Net: Name=SSTX2_P
+Added Pin To Net: NetName=SSTX3_N Pin=U5-22
+Added Net: Name=SSTX3_N
+Added Pin To Net: NetName=SSTX3_P Pin=U5-23
+Added Net: Name=SSTX3_P
+Added Pin To Net: NetName=SSTX4_N Pin=U6-22
+Added Net: Name=SSTX4_N
+Added Pin To Net: NetName=SSTX4_P Pin=U6-23
+Added Net: Name=SSTX4_P
+Added Pin To Net: NetName=TX1_N Pin=U1-33
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=U1-34
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX2_N Pin=U2-33
+Added Net: Name=TX2_N
+Added Pin To Net: NetName=TX2_P Pin=U2-34
+Added Net: Name=TX2_P
+Added Pin To Net: NetName=TX3_N Pin=U5-33
+Added Net: Name=TX3_N
+Added Pin To Net: NetName=TX3_P Pin=U5-34
+Added Net: Name=TX3_P
+Added Pin To Net: NetName=TX4_N Pin=U6-33
+Added Net: Name=TX4_N
+Added Pin To Net: NetName=TX4_P Pin=U6-34
+Added Net: Name=TX4_P
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=RX2
+Added Differential Pair: Name=RX3
+Added Differential Pair: Name=RX4
+Added Differential Pair: Name=TX1
+Added Differential Pair: Name=TX2
+Added Differential Pair: Name=TX3
+Added Differential Pair: Name=TX4

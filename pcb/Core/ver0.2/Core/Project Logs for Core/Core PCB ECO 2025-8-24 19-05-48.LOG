@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GPIO0-D Pin=JP6-1
+Added Pin To Net: NetName=GPIO3-D Pin=JP6-2
+Added Pin To Net: NetName=GPIO2-D Pin=JP6-3
+Added Pin To Net: NetName=GPIO1-D Pin=JP6-4
+Added Pin To Net: NetName=GND Pin=JP6-5
+Added Pin To Net: NetName=VCC3V3-D Pin=JP6-6

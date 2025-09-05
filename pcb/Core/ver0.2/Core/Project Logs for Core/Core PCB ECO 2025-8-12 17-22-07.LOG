@@ -1,0 +1,34 @@
+Added Component: Designator=J3(TypeC 24p Ö±Á¢)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1054500101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-A1
+Added Pin To Net: NetName=IN_SSTX1P Pin=J3-A2
+Added Pin To Net: NetName=IN_SSTX1N Pin=J3-A3
+Added Pin To Net: NetName=VBUS Pin=J3-A4
+Added Pin To Net: NetName=IN_CC1 Pin=J3-A5
+Added Pin To Net: NetName=USBDP Pin=J3-A6
+Added Pin To Net: NetName=USBDN Pin=J3-A7
+Added Pin To Net: NetName=VBUS Pin=J3-A9
+Added Pin To Net: NetName=IN_SSRX2N Pin=J3-A10
+Added Pin To Net: NetName=IN_SSRX2P Pin=J3-A11
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=GND Pin=J3-B1
+Added Pin To Net: NetName=IN_SSTX2P Pin=J3-B2
+Added Pin To Net: NetName=IN_SSTX2N Pin=J3-B3
+Added Pin To Net: NetName=VBUS Pin=J3-B4
+Added Pin To Net: NetName=IN_CC2 Pin=J3-B5
+Added Pin To Net: NetName=USBDP Pin=J3-B6
+Added Pin To Net: NetName=USBDN Pin=J3-B7
+Added Pin To Net: NetName=VBUS Pin=J3-B9
+Added Pin To Net: NetName=IN_SSRX1N Pin=J3-B10
+Added Pin To Net: NetName=IN_SSRX1P Pin=J3-B11
+Added Pin To Net: NetName=GND Pin=J3-B12
+Add Pin To Net: Unknown Pin: Pin J3-SH1
+Add Pin To Net: Unknown Pin: Pin J3-SH2
+Add Pin To Net: Unknown Pin: Pin J3-SH3
+Add Pin To Net: Unknown Pin: Pin J3-SH4
+Added Member To Class: ClassName=Connector Member=Component J3 Typec 24p

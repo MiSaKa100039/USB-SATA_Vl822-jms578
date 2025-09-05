@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Y1 Old Footprint=OSC 2025-4P New Footprint=OSC 3225-4P
+Change Component Footprint: Designator=Y2 Old Footprint=OSC 2025-4P New Footprint=OSC 3225-4P
+Change Component Footprint: Designator=Y3 Old Footprint=OSC 2025-4P New Footprint=OSC 3225-4P
+Change Component Footprint: Designator=Y4 Old Footprint=OSC 2025-4P New Footprint=OSC 3225-4P
+Change Component Footprint: Designator=Y5 Old Footprint=OSC 2025-4P New Footprint=OSC 3225-4P
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2

@@ -1,0 +1,17 @@
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Added Class: Name=USB
+Add Differential Pair: Number of nets in differential pair cap_TX2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSRX1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSRX1P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSRX2N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSRX2P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSTX1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSTX1P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSTX2N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair IN_SSTX2P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USBDN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USBDP is 1 instead of 2
+Added Member To Class: ClassName=Sata Member=Wire cap_TX2_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX3_P
+Added Member To Class: ClassName=Sata Member=Wire cap_TX4_P

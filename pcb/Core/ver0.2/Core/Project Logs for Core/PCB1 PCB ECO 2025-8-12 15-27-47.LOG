@@ -1,0 +1,542 @@
+Removed Pin From Net: NetName=VCC5V-B Pin=C117-2
+Removed Pin From Net: NetName=VCC5V-B Pin=C118-2
+Removed Pin From Net: NetName=VCC5V-B Pin=C119-2
+Removed Pin From Net: NetName=VCC5V-B Pin=C120-2
+Removed Pin From Net: NetName=VCC5V-B Pin=L6-2
+Removed Pin From Net: NetName=VCC5V-A Pin=R19-1
+Removed Pin From Net: NetName=VSENSE-A Pin=R19-2
+Removed Pin From Net: NetName=NetR17_2 Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=NetC111_2 Pin=R22-1
+Removed Pin From Net: NetName=NetC110_2 Pin=R22-2
+Removed Pin From Net: NetName=VCC5V-B Pin=R25-1
+Removed Pin From Net: NetName=NetR24_2 Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=NetC122_2 Pin=R28-1
+Removed Pin From Net: NetName=NetC121_2 Pin=R28-2
+Change Component Footprint: Designator=C1 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C2 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C3 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C4 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C5 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C6 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C7 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C8 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C9 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C10 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C11 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C12 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C13 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C14 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C15 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C16 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C17 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C18 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C20 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C22 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C23 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C24 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C25 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C26 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C27 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C28 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C29 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C30 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C31 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C32 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C33 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C34 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C35 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C36 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C37 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C38 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C39 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C40 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C41 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C42 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C43 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C44 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C45 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C46 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C47 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C48 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C49 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C50 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C51 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C52 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C53 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C54 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C55 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C56 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C57 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C58 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C59 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C60 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C62 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C64 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C65 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C66 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C67 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C68 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C69 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C70 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C71 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C72 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C73 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C74 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C75 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C76 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C77 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C78 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C79 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C80 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C81 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C82 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C83 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C84 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C85 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C86 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C87 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C88 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C89 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C90 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C91 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C92 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C93 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C94 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C95 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C96 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C97 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C98 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C99 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C100 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C101 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C104 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C105 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C110 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C111 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C112 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C115 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C116 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C121 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C122 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C125 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C128 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C129 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C130 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C131 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C132 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C133 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C134 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C135 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C136 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C137 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C138 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C139 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C140 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C141 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C142 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C143 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C144 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C145 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C146 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C147 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C148 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C149 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C150 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C151 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C152 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C153 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C154 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C155 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C156 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C157 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C158 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C159 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C160 Old Footprint=C 0201_L New Footprint=C0402_L
+Change Component Footprint: Designator=C19 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C21 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C61 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C63 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C102 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C103 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C106 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C107 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C108 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C109 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C113 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C114 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C117 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C118 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C119 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C120 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C123 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C124 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C126 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=C127 Old Footprint=C 0201_L New Footprint=C0603_L
+Change Component Footprint: Designator=L1 Old Footprint=L 0402_L New Footprint=L1206
+Change Component Footprint: Designator=L2 Old Footprint=L 0402_L New Footprint=L1206
+Change Component Footprint: Designator=L3 Old Footprint=L 0402_L New Footprint=L1206
+Change Component Footprint: Designator=L4 Old Footprint=L 0402_L New Footprint=L1206
+Change Component Footprint: Designator=L5 Old Footprint=L 0402_L New Footprint=NR4020
+Change Component Footprint: Designator=L6 Old Footprint=L 0402_L New Footprint=NR4020
+Change Component Footprint: Designator=L7 Old Footprint=L 0402_L New Footprint=NR4020
+Change Component Footprint: Designator=L8 Old Footprint=L 0402_L New Footprint=NR4020
+Change Component Footprint: Designator=R1 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R2 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R3 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R4 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R5 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R6 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R7 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R8 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R9 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R10 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R11 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R12 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R13 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R14 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R15 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R16 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R17 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R18 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R19 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R20 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R21 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R22 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R23 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R24 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R25 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R26 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R27 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R28 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R29 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R30 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R31 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R32 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R33 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R34 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R35 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R36 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R37 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R38 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R39 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R40 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R41 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R42 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R43 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R44 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R45 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R46 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R47 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R48 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R49 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R50 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R51 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R52 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R53 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R54 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=R55 Old Footprint=R 0201_L New Footprint=R0402_L
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23-3N New Footprint=DFN8-L3.0-W3.0-P0.65_EP
+Change Component Footprint: Designator=JP1 Old Footprint=XH2.54-WI-2P New Footprint=ZH1.5-WS-2P
+Change Component Comment : Designator=R51 Old Comment=1K 1% New Comment=1M 1%
+Change Component Comment : Designator=R3 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R4 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R11 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R12 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R40 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R41 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R42 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R43 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R44 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R47 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R50 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R52 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R54 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R55 Old Comment=1K 1% New Comment=4.7K 1%
+Change Component Comment : Designator=R17 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R18 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R21 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R24 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R27 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R38 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R39 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R45 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R53 Old Comment=1K 1% New Comment=10K 1%
+Change Component Comment : Designator=R49 Old Comment=1K 1% New Comment=12.4k 1%
+Change Component Comment : Designator=R7 Old Comment=1K 1% New Comment=12K 1%
+Change Component Comment : Designator=R8 Old Comment=1K 1% New Comment=12K 1%
+Change Component Comment : Designator=R15 Old Comment=1K 1% New Comment=12K 1%
+Change Component Comment : Designator=R16 Old Comment=1K 1% New Comment=12K 1%
+Change Component Comment : Designator=R19 Old Comment=1K 1% New Comment=18.7K 1%
+Change Component Comment : Designator=R25 Old Comment=1K 1% New Comment=18.7K 1%
+Change Component Comment : Designator=R23 Old Comment=1K 1% New Comment=19.1K 1%
+Change Component Comment : Designator=R29 Old Comment=1K 1% New Comment=19.1K 1%
+Change Component Comment : Designator=R46 Old Comment=1K 1% New Comment=20K 1%
+Change Component Comment : Designator=R48 Old Comment=1K 1% New Comment=20K 1%
+Change Component Comment : Designator=R37 Old Comment=1K 1% New Comment=88,7K 1%
+Change Component Comment : Designator=R5 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R6 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R13 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R14 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R20 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R22 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R26 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R28 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R30 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R31 Old Comment=1K 1% New Comment=100K 1%
+Change Component Comment : Designator=R32 Old Comment=1K 1% New Comment=130K 1%
+Change Component Comment : Designator=R33 Old Comment=1K 1% New Comment=130K 1%
+Change Component Comment : Designator=R36 Old Comment=1K 1% New Comment=130K 1%
+Change Component Comment : Designator=R1 Old Comment=1K 1% New Comment=330K 1%
+Change Component Comment : Designator=R2 Old Comment=1K 1% New Comment=330K 1%
+Change Component Comment : Designator=R9 Old Comment=1K 1% New Comment=330K 1%
+Change Component Comment : Designator=R10 Old Comment=1K 1% New Comment=330K 1%
+Change Component Comment : Designator=R34 Old Comment=1K 1% New Comment=390K 1%
+Change Component Comment : Designator=R35 Old Comment=1K 1% New Comment=390K 1%
+Change Component Comment : Designator=L7 Old Comment=10uH New Comment=1uH
+Change Component Comment : Designator=L8 Old Comment=10uH New Comment=2uH
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=4.7uH
+Change Component Comment : Designator=L2 Old Comment=10uH New Comment=4.7uH
+Change Component Comment : Designator=L3 Old Comment=10uH New Comment=4.7uH
+Change Component Comment : Designator=L4 Old Comment=10uH New Comment=4.7uH
+Change Component Comment : Designator=L5 Old Comment=10uH New Comment=6.8uH
+Change Component Comment : Designator=L6 Old Comment=10uH New Comment=6.8uH
+Change Component Comment : Designator=C17 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C18 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C23 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C24 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C59 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C60 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C65 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C66 Old Comment=Capacitor New Comment=1uF 10V
+Change Component Comment : Designator=C104 Old Comment=Capacitor New Comment=1uF/25V
+Change Component Comment : Designator=C115 Old Comment=Capacitor New Comment=1uF/25V
+Change Component Comment : Designator=C105 Old Comment=Capacitor New Comment=3.3nF/25V
+Change Component Comment : Designator=C116 Old Comment=Capacitor New Comment=3.3nF/25V
+Change Component Comment : Designator=C125 Old Comment=Capacitor New Comment=4.7uF 6.3V
+Change Component Comment : Designator=C128 Old Comment=Capacitor New Comment=4.7uF 6.3V
+Change Component Comment : Designator=C1 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C2 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C3 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C4 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C5 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C6 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C7 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C8 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C9 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C10 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C11 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C12 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C13 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C14 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C15 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C16 Old Comment=Capacitor New Comment=10nF 6.3V
+Change Component Comment : Designator=C19 Old Comment=Capacitor New Comment=10uF 6.3V
+Change Component Comment : Designator=C21 Old Comment=Capacitor New Comment=10uF 6.3V
+Change Component Comment : Designator=C61 Old Comment=Capacitor New Comment=10uF 6.3V
+Change Component Comment : Designator=C63 Old Comment=Capacitor New Comment=10uF 6.3V
+Change Component Comment : Designator=C102 Old Comment=Capacitor New Comment=10uF/25V
+Change Component Comment : Designator=C103 Old Comment=Capacitor New Comment=10uF/25V
+Change Component Comment : Designator=C113 Old Comment=Capacitor New Comment=10uF/25V
+Change Component Comment : Designator=C114 Old Comment=Capacitor New Comment=10uF/25V
+Change Component Comment : Designator=C142 Old Comment=Capacitor New Comment=22pF/16V
+Change Component Comment : Designator=C143 Old Comment=Capacitor New Comment=22pF/16V
+Change Component Comment : Designator=C126 Old Comment=Capacitor New Comment=22uF 6.3V
+Change Component Comment : Designator=C127 Old Comment=Capacitor New Comment=22uF 6.3V
+Change Component Comment : Designator=C123 Old Comment=Capacitor New Comment=22uF 10V
+Change Component Comment : Designator=C124 Old Comment=Capacitor New Comment=22uF 10V
+Change Component Comment : Designator=C106 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C107 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C108 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C109 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C117 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C118 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C119 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C120 Old Comment=Capacitor New Comment=22uF/16V
+Change Component Comment : Designator=C55 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C56 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C57 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C58 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C97 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C98 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C99 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C100 Old Comment=Capacitor New Comment=33pF/16V
+Change Component Comment : Designator=C110 Old Comment=Capacitor New Comment=68pF/25V
+Change Component Comment : Designator=C121 Old Comment=Capacitor New Comment=68pF/25V
+Change Component Comment : Designator=C20 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C22 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C25 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C26 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C27 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C28 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C29 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C30 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C31 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C32 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C33 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C34 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C35 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C36 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C37 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C38 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C39 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C40 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C41 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C42 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C43 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C44 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C45 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C46 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C47 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C48 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C49 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C50 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C51 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C52 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C53 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C54 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C62 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C64 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C67 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C68 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C69 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C70 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C71 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C72 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C73 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C74 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C75 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C76 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C77 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C78 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C79 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C80 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C81 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C82 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C83 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C84 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C85 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C86 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C87 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C88 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C89 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C90 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C91 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C92 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C93 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C94 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C95 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C96 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C131 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C132 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C133 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C134 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C135 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C136 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C137 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C138 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C139 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C140 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C141 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C144 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C145 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C146 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C147 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C148 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C149 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C150 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C151 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C152 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C153 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C154 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C155 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C156 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C157 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C158 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C159 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C160 Old Comment=Capacitor New Comment=100nF 6.3V
+Change Component Comment : Designator=C129 Old Comment=Capacitor New Comment=100nF 10V
+Change Component Comment : Designator=C130 Old Comment=Capacitor New Comment=100nF 10V
+Change Component Comment : Designator=C101 Old Comment=Capacitor New Comment=100nF/25V
+Change Component Comment : Designator=C112 Old Comment=Capacitor New Comment=100nF/25V
+Change Component Comment : Designator=C111 Old Comment=Capacitor New Comment=560pF/25V
+Change Component Comment : Designator=C122 Old Comment=Capacitor New Comment=560pF/25V
+Added Component: Designator=U9(VSON-10_L3.0-W3.0-P0.50-TL-EP)
+Added Component: Designator=U10(VSON-10_L3.0-W3.0-P0.50-TL-EP)
+Added Component: Designator=Y1(OSC 1612-4P)
+Added Component: Designator=Y2(OSC 1612-4P)
+Added Component: Designator=Y3(OSC 1612-4P)
+Added Component: Designator=Y4(OSC 1612-4P)
+Added Component: Designator=Y5(OSC 1612-4P)
+Added Pin To Net: NetName=VCC5V-A Pin=C117-2
+Added Pin To Net: NetName=VCC5V-A Pin=C118-2
+Added Pin To Net: NetName=VCC5V-A Pin=C119-2
+Added Pin To Net: NetName=VCC5V-A Pin=C120-2
+Added Pin To Net: NetName=VCC5V-A Pin=L6-2
+Added Pin To Net: NetName=NetC110_2 Pin=R19-1
+Added Pin To Net: NetName=NetC111_2 Pin=R19-2
+Added Pin To Net: NetName=VCC5V-A Pin=R20-1
+Added Pin To Net: NetName=VSENSE-A Pin=R20-2
+Added Pin To Net: NetName=NetR17_2 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetC121_2 Pin=R25-1
+Added Pin To Net: NetName=NetC122_2 Pin=R25-2
+Added Pin To Net: NetName=VCC5V-A Pin=R26-1
+Added Pin To Net: NetName=VSENSE-A Pin=R26-2
+Added Pin To Net: NetName=NetR24_2 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=VSENSE-A Pin=R29-1
+Added Pin To Net: NetName=VCC12V Pin=U9-1
+Added Pin To Net: NetName=NetC101_1 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=VSENSE-A Pin=U9-6
+Added Pin To Net: NetName=NetC110_2 Pin=U9-7
+Added Pin To Net: NetName=NetR17_2 Pin=U9-8
+Added Pin To Net: NetName=NetC101_2 Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U9-11
+Added Pin To Net: NetName=VCC12V Pin=U10-1
+Added Pin To Net: NetName=NetC112_1 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=VSENSE-A Pin=U10-6
+Added Pin To Net: NetName=NetC121_2 Pin=U10-7
+Added Pin To Net: NetName=NetR24_2 Pin=U10-8
+Added Pin To Net: NetName=NetC112_2 Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=XOUT-A Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=XIN-A Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=XOUT-B Pin=Y2-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=XIN-B Pin=Y2-3
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Pin To Net: NetName=XOUT-C Pin=Y3-1
+Added Pin To Net: NetName=GND Pin=Y3-2
+Added Pin To Net: NetName=XIN-C Pin=Y3-3
+Added Pin To Net: NetName=GND Pin=Y3-4
+Added Pin To Net: NetName=XOUT-D Pin=Y4-1
+Added Pin To Net: NetName=GND Pin=Y4-2
+Added Pin To Net: NetName=XIN-D Pin=Y4-3
+Added Pin To Net: NetName=GND Pin=Y4-4
+Added Pin To Net: NetName=XOUT Pin=Y5-1
+Added Pin To Net: NetName=GND Pin=Y5-2
+Added Pin To Net: NetName=XIN Pin=Y5-3
+Added Pin To Net: NetName=GND Pin=Y5-4
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U9-10
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U10-10
+Added Net: Name=NetR28_1
+Added Member To Class: ClassName=Pwr Member=Component U9 TPS54335A-QFN
+Added Member To Class: ClassName=Pwr Member=Component U10 TPS54335A-QFN
+Added Member To Class: ClassName=jms578 Member=Component Y1 30Mhz
+Added Member To Class: ClassName=jms578 Member=Component Y2 30Mhz
+Added Member To Class: ClassName=jms578 Member=Component Y3 30Mhz
+Added Member To Class: ClassName=jms578 Member=Component Y4 30Mhz
+Added Member To Class: ClassName=Vl822 Member=Component Y5 25Mhz

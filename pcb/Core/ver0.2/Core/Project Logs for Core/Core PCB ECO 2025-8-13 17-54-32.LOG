@@ -1,0 +1,56 @@
+Change Net Name : Old Net Name=NetC132_2 New Net Name=cap_SSTX1_P
+Change Net Name : Old Net Name=NetC133_2 New Net Name=cap_SSTX1_N
+Change Net Name : Old Net Name=NetC134_2 New Net Name=cap_SSTX_P
+Change Net Name : Old Net Name=NetC135_2 New Net Name=cap_SSTX_N
+Change Net Name : Old Net Name=NetC136_2 New Net Name=cap_SSTX2_P
+Change Net Name : Old Net Name=NetC137_2 New Net Name=cap_SSTX2_N
+Change Net Name : Old Net Name=NetC138_2 New Net Name=cap_SSTX3_P
+Change Net Name : Old Net Name=NetC139_2 New Net Name=cap_SSTX3_N
+Change Net Name : Old Net Name=NetC140_2 New Net Name=cap_SSTX4_P
+Change Net Name : Old Net Name=NetC141_2 New Net Name=cap_SSTX4_N
+Added Differential Pair: Name=cap_SSTX1
+Added Differential Pair: Name=cap_SSTX2
+Added Differential Pair: Name=cap_SSTX3
+Added Differential Pair: Name=cap_SSTX4
+Added Differential Pair: Name=HSD1
+Added Differential Pair: Name=HSD2
+Added Differential Pair: Name=HSD3
+Added Differential Pair: Name=HSD4
+Added Differential Pair: Name=SSRX1
+Added Differential Pair: Name=SSRX2
+Added Differential Pair: Name=SSRX3
+Added Differential Pair: Name=SSRX4
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX1_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX1_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX2_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX2_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX3_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX3_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX4_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX4_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX_P
+Added Member To Class: ClassName=USB Member=Wire HSD1_N
+Added Member To Class: ClassName=USB Member=Wire HSD1_P
+Added Member To Class: ClassName=USB Member=Wire HSD2_N
+Added Member To Class: ClassName=USB Member=Wire HSD2_P
+Added Member To Class: ClassName=USB Member=Wire HSD3_N
+Added Member To Class: ClassName=USB Member=Wire HSD3_P
+Added Member To Class: ClassName=USB Member=Wire HSD4_N
+Added Member To Class: ClassName=USB Member=Wire HSD4_P
+Added Member To Class: ClassName=USB Member=Wire SSRX1_N
+Added Member To Class: ClassName=USB Member=Wire SSRX1_P
+Added Member To Class: ClassName=USB Member=Wire SSRX2_N
+Added Member To Class: ClassName=USB Member=Wire SSRX2_P
+Added Member To Class: ClassName=USB Member=Wire SSRX3_N
+Added Member To Class: ClassName=USB Member=Wire SSRX3_P
+Added Member To Class: ClassName=USB Member=Wire SSRX4_N
+Added Member To Class: ClassName=USB Member=Wire SSRX4_P
+Added Member To Class: ClassName=USB Member=Wire SSTX1_N
+Added Member To Class: ClassName=USB Member=Wire SSTX1_P
+Added Member To Class: ClassName=USB Member=Wire SSTX2_N
+Added Member To Class: ClassName=USB Member=Wire SSTX2_P
+Added Member To Class: ClassName=USB Member=Wire SSTX3_N
+Added Member To Class: ClassName=USB Member=Wire SSTX3_P
+Added Member To Class: ClassName=USB Member=Wire SSTX4_N
+Added Member To Class: ClassName=USB Member=Wire SSTX4_P

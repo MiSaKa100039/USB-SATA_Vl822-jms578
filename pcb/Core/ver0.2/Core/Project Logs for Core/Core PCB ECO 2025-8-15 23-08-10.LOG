@@ -1,0 +1,4 @@
+Change Differential Pair Positive Net Name : Old Net Name=cap_SSTX_P New Net Name=cap_SSTX_P
+Change Differential Pair Negative Net Name : Old Net Name=cap_SSTX_N New Net Name=cap_SSTX_N
+Add Differential Pair: Number of nets in differential pair cap_SSRX2 is 1 instead of 2
+Added Member To Class: ClassName=USB Member=Wire cap_SSTX_N

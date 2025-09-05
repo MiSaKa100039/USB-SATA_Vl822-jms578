@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SSTX3_N Pin=C52-1
+Removed Pin From Net: NetName=cap_SSTX3_N Pin=C52-2
+Removed Pin From Net: NetName=SSTX3_P Pin=C54-1
+Removed Pin From Net: NetName=cap_SSTX3_P Pin=C54-2
+Removed Pin From Net: NetName=SSRX3_P Pin=C95-1
+Removed Pin From Net: NetName=cap_SSTX3_N Pin=U2-19
+Removed Pin From Net: NetName=cap_SSTX3_P Pin=U2-20
+Removed Pin From Net: NetName=SSRX3_N Pin=U2-22
+Removed Pin From Net: NetName=SSRX3_P Pin=U2-23
+Removed Pin From Net: NetName=HSD3_P Pin=U5-15
+Removed Pin From Net: NetName=SSTX3_N Pin=U5-22
+Added Pin To Net: NetName=SSRX3_N Pin=C52-1
+Added Pin To Net: NetName=SSRX3_P Pin=C54-1
+Added Pin To Net: NetName=SSRX2_P Pin=C95-1
+Added Pin To Net: NetName=SSTX3_N Pin=U2-22
+Added Pin To Net: NetName=SSTX3_P Pin=U2-23
+Added Pin To Net: NetName=HSD2_P Pin=U5-15
+Added Pin To Net: NetName=SSTX2_N Pin=U5-22
+Change Net Name : Old Net Name=cap_SSRX3_P New Net Name=cap_SSRX2_P
+Added Pin To Net: NetName=cap_SSRX3_N Pin=C52-2
+Added Pin To Net: NetName=cap_SSRX3_N Pin=U2-19
+Added Net: Name=cap_SSRX3_N
+Added Pin To Net: NetName=cap_SSRX3_P Pin=C54-2
+Added Pin To Net: NetName=cap_SSRX3_P Pin=U2-20
+Added Net: Name=cap_SSRX3_P
+Change Differential Pair Negative Net Name : Old Net Name=cap_SSRX3_N New Net Name=cap_SSRX3_N
+Added Differential Pair: Name=cap_SSRX2
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX2_P
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX3_N
