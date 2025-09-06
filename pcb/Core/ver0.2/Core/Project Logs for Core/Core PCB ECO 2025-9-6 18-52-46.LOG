@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SPISI Pin=U13-69
+Added Pin To Net: NetName=SPICLK Pin=U13-70
+Added Pin To Net: NetName=SPISO Pin=U13-71
+Added Pin To Net: NetName=SPICS Pin=U13-72
