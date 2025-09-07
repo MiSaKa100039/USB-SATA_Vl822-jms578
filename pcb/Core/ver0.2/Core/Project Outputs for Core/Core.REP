@@ -2,18 +2,6 @@
 FileName = Core.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : Core.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D127
-    D128
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Core.GTL
 
@@ -43,7 +31,6 @@ Used DCodes :
     D31
     D32
     D33
-    D57
     D58
     D59
     D60
@@ -61,27 +48,122 @@ Used DCodes :
     D72
     D73
     D74
+    D75
+    D76
 *************************************************************
 
 *************************************************************
-Generating : Layer 1
-      File : Core.G1
+Generating : Layer 2
+      File : Core.G2
 
-    Adding Layer      : Layer 1
+    Adding Layer      : Layer 2
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D65
-    D66
-    D69
-    D70
+    D10
+    D17
+    D58
     D71
     D72
     D73
     D74
     D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Core.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D29
+    D30
+    D79
+    D80
+    D81
+    D82
+    D83
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D125
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Core.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D17
+    D26
+    D27
+    D29
+    D30
+    D58
+    D59
+    D60
+    D62
+    D67
+    D68
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
 *************************************************************
 
 *************************************************************
@@ -115,81 +197,36 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Core.GBO
+Generating : Layer 1
+      File : Core.G1
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D124
-    D125
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Core.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Layer 1
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D25
-    D26
-    D29
-    D30
-    D77
-    D78
-    D79
-    D80
-    D81
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D123
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : Core.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D17
-    D57
-    D69
-    D70
+    D67
+    D68
     D71
     D72
     D73
     D74
     D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Core.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D129
+    D130
 *************************************************************
 
 *************************************************************
@@ -208,6 +245,26 @@ Used DCodes :
     D15
     D16
     D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Core.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D126
+    D127
+    D128
 *************************************************************
 
 *************************************************************
@@ -245,61 +302,7 @@ Used DCodes :
     D54
     D55
     D56
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Core.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D15
-    D17
-    D25
-    D26
-    D29
-    D30
     D57
-    D58
-    D59
-    D65
-    D66
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
 *************************************************************
 
 *************************************************************
@@ -314,17 +317,16 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D44
-    D45
+    D34
+    D46
     D47
     D48
-    D52
+    D49
     D53
     D54
     D55
     D56
-    D100
-    D101
+    D57
     D102
     D103
     D104
@@ -346,5 +348,7 @@ Used DCodes :
     D120
     D121
     D122
+    D123
+    D124
 *************************************************************
 
